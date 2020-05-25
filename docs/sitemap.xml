@@ -7,6 +7,18 @@
   </url>
   
   <url>
+    <loc>http://nef.is/dolma/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nef.is/bezelye-%C3%A7orbas%C4%B1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nef.is/menemen/</loc>
+  </url>
+  
+  <url>
     <loc>http://nef.is/mercimek/</loc>
   </url>
   
@@ -20,6 +32,10 @@
   
   <url>
     <loc>http://nef.is/tarhana/</loc>
+  </url>
+  
+  <url>
+    <loc>http://nef.is/ye%C5%9Fil-mercimek/</loc>
   </url>
   
 </urlset>
