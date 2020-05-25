@@ -1,5 +1,10 @@
 ---
 title: "Tarhana Çorbası"
+aliases:
+    - /tarhana-çorbası
+    - /tarhana çorbası
+    - /tarhana-corbasi
+    - /tarhana corbasi
 ---
 
 # Malzemeler

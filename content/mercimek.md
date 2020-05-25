@@ -1,5 +1,10 @@
 ---
 title: "Mercimek Çorbası"
+aliases:
+    - /mercimek-çorbası
+    - /mercimek çorbası
+    - /mercimek-corbasi
+    - /mercimek corbasi
 ---
 
 # Malzemeler
