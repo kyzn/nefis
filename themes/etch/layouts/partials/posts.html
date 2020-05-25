@@ -1,0 +1,7 @@
+<ul id="posts">
+    {{ range where .Site.Home.Pages "Title" "!=" "Posts" }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
