@@ -21,5 +21,5 @@ title: "Mercimek Çorbası"
  - Mercimekleri yıkayın ve tencereye ekleyin
  - Zeytinyağı ve baharatları da tencereye ekleyin
  - Kaynayana kadar yüksek ateşte bırakın
- - Kaynamaya başladıktan sonra orta ateşte 2 saat kadar pişirin
+ - Kaynamaya başladıktan sonra orta ateşte 2 saat kadar kapağı kapalı pişirin
  - Biraz soğumaya bırakıp blender ile homojen hale getirin
