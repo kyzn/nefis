@@ -1,41 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://nef.is/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/dolma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/bezelye-%C3%A7orbas%C4%B1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/menemen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/mercimek/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/tarhana/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://nef.is/ye%C5%9Fil-mercimek/</loc>
   </url>
-  
 </urlset>
